@@ -1,0 +1,10 @@
+C:\Users\yaros\source\repos\swapi\swapi\bin\Debug\swapi.exe.config
+C:\Users\yaros\source\repos\swapi\swapi\bin\Debug\swapi.exe
+C:\Users\yaros\source\repos\swapi\swapi\bin\Debug\swapi.pdb
+C:\Users\yaros\source\repos\swapi\swapi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yaros\source\repos\swapi\swapi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yaros\source\repos\swapi\swapi\obj\Debug\swapi.csproj.AssemblyReference.cache
+C:\Users\yaros\source\repos\swapi\swapi\obj\Debug\swapi.csproj.CoreCompileInputs.cache
+C:\Users\yaros\source\repos\swapi\swapi\obj\Debug\swapi.csproj.Up2Date
+C:\Users\yaros\source\repos\swapi\swapi\obj\Debug\swapi.exe
+C:\Users\yaros\source\repos\swapi\swapi\obj\Debug\swapi.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaros\\source\\repos\\swapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69316153-DB88-41B7-97D6-13B078EB4394}|swapi\\swapi.csproj|c:\\users\\yaros\\source\\repos\\swapi\\swapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69316153-DB88-41B7-97D6-13B078EB4394}|swapi\\swapi.csproj|solutionrelative:swapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69316153-DB88-41B7-97D6-13B078EB4394}|swapi\\swapi.csproj|c:\\users\\yaros\\source\\repos\\swapi\\swapi\\classes\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69316153-DB88-41B7-97D6-13B078EB4394}|swapi\\swapi.csproj|solutionrelative:swapi\\classes\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69316153-DB88-41B7-97D6-13B078EB4394}|swapi\\swapi.csproj|c:\\users\\yaros\\source\\repos\\swapi\\swapi\\classes\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69316153-DB88-41B7-97D6-13B078EB4394}|swapi\\swapi.csproj|solutionrelative:swapi\\classes\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69316153-DB88-41B7-97D6-13B078EB4394}|swapi\\swapi.csproj|c:\\users\\yaros\\source\\repos\\swapi\\swapi\\services\\swapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69316153-DB88-41B7-97D6-13B078EB4394}|swapi\\swapi.csproj|solutionrelative:swapi\\services\\swapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwapiService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\source\\repos\\swapi\\swapi\\Services\\SwapiService.cs",
+              "RelativeDocumentMoniker": "swapi\\Services\\SwapiService.cs",
+              "ToolTip": "C:\\Users\\yaros\\source\\repos\\swapi\\swapi\\Services\\SwapiService.cs",
+              "RelativeToolTip": "swapi\\Services\\SwapiService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:10:03.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\source\\repos\\swapi\\swapi\\Classes\\Planet.cs",
+              "RelativeDocumentMoniker": "swapi\\Classes\\Planet.cs",
+              "ToolTip": "C:\\Users\\yaros\\source\\repos\\swapi\\swapi\\Classes\\Planet.cs",
+              "RelativeToolTip": "swapi\\Classes\\Planet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:08:51.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resident.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\source\\repos\\swapi\\swapi\\Classes\\Resident.cs",
+              "RelativeDocumentMoniker": "swapi\\Classes\\Resident.cs",
+              "ToolTip": "C:\\Users\\yaros\\source\\repos\\swapi\\swapi\\Classes\\Resident.cs",
+              "RelativeToolTip": "swapi\\Classes\\Resident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:08:30.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\source\\repos\\swapi\\swapi\\Program.cs",
+              "RelativeDocumentMoniker": "swapi\\Program.cs",
+              "ToolTip": "C:\\Users\\yaros\\source\\repos\\swapi\\swapi\\Program.cs",
+              "RelativeToolTip": "swapi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:07:57.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
